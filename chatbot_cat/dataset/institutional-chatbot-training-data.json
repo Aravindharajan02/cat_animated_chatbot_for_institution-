@@ -1,0 +1,382 @@
+[
+  {
+    "category": "Admissions",
+    "conversations": [
+      {
+        "query": "What are the admission requirements for undergraduate programs?",
+        "response": "Our undergraduate admission requirements include: a completed application form, high school transcripts with a minimum GPA of 3.0, standardized test scores (SAT or ACT), two letters of recommendation, and a personal statement. Some programs may have additional requirements such as portfolios or interviews."
+      },
+      {
+        "query": "When is the application deadline for the fall semester?",
+        "response": "The regular application deadline for fall semester admission is February 1. Early decision applications are due by November 15. Late applications may be considered on a space-available basis until May 1, but we strongly recommend applying by the regular deadline."
+      },
+      {
+        "query": "How do I check my application status?",
+        "response": "You can check your application status by logging into the student portal using the credentials emailed to you after submitting your application. If you haven't received login information or are experiencing difficulties, please contact our admissions office at admissions@institution.edu."
+      },
+      {
+        "query": "Is there an application fee?",
+        "response": "Yes, there is a non-refundable application fee of $60 for domestic students and $90 for international students. Fee waivers are available for students with demonstrated financial need, participants in certain programs like Questbridge, or active military personnel and veterans."
+      },
+      {
+        "query": "Do you accept transfer students?",
+        "response": "Yes, we accept transfer students who have completed at least 24 credit hours at an accredited institution with a minimum GPA of 2.7. Transfer applicants should submit their college transcripts, high school transcripts, and a transfer student application form. Credit evaluation is completed after admission."
+      },
+      {
+        "query": "What is your acceptance rate?",
+        "response": "Our institution's acceptance rate is approximately 65% for the general applicant pool. However, this varies by program, with some competitive programs such as Nursing and Computer Science having lower acceptance rates between 25-35%."
+      },
+      {
+        "query": "How can I schedule a campus tour?",
+        "response": "Campus tours can be scheduled through our website at institution.edu/visit. We offer both in-person and virtual tour options. In-person tours are available Monday through Friday at 10:00 AM and 2:00 PM, and select Saturdays at 11:00 AM. Special group tours can be arranged by contacting our visitor center."
+      },
+      {
+        "query": "What are the admission requirements for international students?",
+        "response": "International students must submit all standard application materials plus evidence of English proficiency (TOEFL score of at least 80 or IELTS score of 6.5), financial documentation showing sufficient funds for at least one year of study, and a copy of their passport. Some countries may require additional verification procedures."
+      },
+      {
+        "query": "Do you offer early decision or early action?",
+        "response": "Yes, we offer both Early Decision (binding) and Early Action (non-binding) options. Early Decision applications are due November 15 with decisions by December 15. Early Action applications are due December 1 with decisions by January 15. Regular decision applications are due February 1."
+      },
+      {
+        "query": "Can I defer my admission to a later semester?",
+        "response": "Yes, admitted students may request to defer their enrollment for up to one year. Deferral requests must be submitted in writing to the admissions office by June 1 and should include the reason for the request. A non-refundable enrollment deposit is required to hold your place."
+      }
+    ]
+  },
+  {
+    "category": "Financial Aid",
+    "conversations": [
+      {
+        "query": "How do I apply for financial aid?",
+        "response": "To apply for financial aid, complete the Free Application for Federal Student Aid (FAFSA) using our institution code 003456. Priority deadline is March 1. You should also complete the institutional aid application through your student portal. Additional scholarships may require separate applications."
+      },
+      {
+        "query": "What scholarships are available for freshmen?",
+        "response": "Freshmen are automatically considered for merit scholarships ranging from $5,000 to full tuition based on GPA and test scores. Additionally, we offer specialized scholarships for leadership, community service, and specific majors. Our Honors College also provides competitive scholarships that require a separate application."
+      },
+      {
+        "query": "When will I receive my financial aid decision?",
+        "response": "Financial aid decisions are typically sent within 2-3 weeks after you've been admitted and we've received your completed FAFSA. Priority consideration is given to applications completed by March 1. You can check the status of your financial aid package through your student portal."
+      },
+      {
+        "query": "Are there payment plans available for tuition?",
+        "response": "Yes, we offer semester payment plans that allow you to split your tuition into 4 monthly installments for a small administrative fee of $35 per semester. Payment plans must be set up before the semester begins through the student financial services portal or by contacting our billing office."
+      },
+      {
+        "query": "What is the average financial aid package?",
+        "response": "The average financial aid package for undergraduate students is approximately $18,500 per year, which includes grants, scholarships, work-study, and loans. About 75% of our students receive some form of financial assistance, with 40% receiving need-based aid."
+      },
+      {
+        "query": "Do you offer work-study programs?",
+        "response": "Yes, Federal Work-Study is available to eligible students who indicate interest on their FAFSA. Work-study students typically work 10-15 hours per week on campus, earning at least minimum wage. Positions range from administrative assistants to research assistants and campus tour guides."
+      },
+      {
+        "query": "Are there scholarships for international students?",
+        "response": "International students are eligible for merit-based scholarships ranging from $5,000 to $20,000 per year. These are awarded based on academic achievement. While international students aren't eligible for federal financial aid, we do offer a limited number of international student scholarships that require a separate application."
+      },
+      {
+        "query": "How do I maintain my scholarship?",
+        "response": "To maintain your scholarship, you must maintain a minimum cumulative GPA (typically 3.0 for most scholarships but varies by program), remain enrolled full-time (at least 12 credit hours per semester), and meet any program-specific requirements. Scholarships are reviewed annually at the end of the spring semester."
+      },
+      {
+        "query": "Can financial aid cover summer courses?",
+        "response": "Financial aid for summer courses is limited and depends on your remaining eligibility from the academic year. To request summer aid, complete the Summer Financial Aid Application available in your student portal by April 1. Federal Pell Grant recipients may be eligible for year-round Pell funding."
+      },
+      {
+        "query": "What are the current tuition rates?",
+        "response": "Current tuition rates are $11,500 per semester for full-time in-state students and $17,200 for out-of-state students. This does not include mandatory fees, housing, or meal plans. Graduate program tuition varies by department. Please check our website for the most current rates as they are subject to annual adjustments."
+      }
+    ]
+  },
+  {
+    "category": "Academic Programs",
+    "conversations": [
+      {
+        "query": "What majors do you offer?",
+        "response": "We offer over 90 undergraduate majors across our six colleges: Arts & Sciences, Business, Engineering, Education, Health Sciences, and Fine Arts. Some of our most popular majors include Computer Science, Psychology, Business Administration, Nursing, and Mechanical Engineering. You can explore all majors on our website under Academic Programs."
+      },
+      {
+        "query": "How do I declare or change my major?",
+        "response": "To declare or change your major, you need to submit a Major Declaration/Change Form through your student portal or at the Registrar's Office. Some programs have specific requirements or application processes, particularly for limited-enrollment programs like Nursing or Engineering. It's recommended to meet with an academic advisor before changing majors."
+      },
+      {
+        "query": "What is the student-to-faculty ratio?",
+        "response": "Our student-to-faculty ratio is 16:1, with an average class size of 27 students. Upper-level courses and seminars typically have 15-20 students. Our largest introductory lectures may have up to 100 students, but these include smaller weekly discussion sections led by teaching assistants or faculty."
+      },
+      {
+        "query": "Do you offer online degrees?",
+        "response": "Yes, we offer several fully online undergraduate and graduate degree programs. Our online undergraduate options include Business Administration, Psychology, and Computer Information Systems. At the graduate level, we offer online programs in Education, Nursing, and Business. Hybrid programs combining online and on-campus courses are also available in select disciplines."
+      },
+      {
+        "query": "What graduate programs are available?",
+        "response": "We offer over 60 graduate programs including Master's, Doctoral, and professional degrees. Our largest graduate programs are in Business (MBA), Education, Engineering, Computer Science, and Public Health. We also offer professional degrees in Law and Medicine through our affiliated professional schools."
+      },
+      {
+        "query": "How do I register for classes?",
+        "response": "Course registration is done through your student portal. Registration windows are assigned based on class standing (seniors register first, then juniors, etc.). Before registering, you should meet with your academic advisor to ensure you're taking appropriate courses for your degree program. Some courses require prerequisites or department permission."
+      },
+      {
+        "query": "What academic support services are available?",
+        "response": "We offer comprehensive academic support services including tutoring centers for math, writing, and science; supplemental instruction for challenging courses; academic coaches; and disability services. Our library provides research assistance and study spaces. Academic advisors help with course selection and graduation planning. All services are free to enrolled students."
+      },
+      {
+        "query": "Do you have study abroad programs?",
+        "response": "Yes, we offer over 150 study abroad opportunities in 50+ countries. Options range from two-week faculty-led programs to semester or year-long exchanges. Most financial aid and scholarships can be applied to approved programs. The Global Education Office provides advising and pre-departure orientation for all participants."
+      },
+      {
+        "query": "What is the Honors College?",
+        "response": "The Honors College provides an enriched academic experience for high-achieving students. Benefits include smaller classes, priority registration, dedicated housing, research opportunities, and special scholarships. Admission is competitive, requiring a separate application. Typically, successful applicants have at least a 3.8 high school GPA and strong test scores."
+      },
+      {
+        "query": "How do internships work?",
+        "response": "Internships can be taken for academic credit in most departments. To receive credit, you must register for an internship course and have your placement approved by the department and Career Services. Many programs require or strongly recommend internships for graduation. Our Career Services office maintains a database of opportunities and hosts several internship fairs annually."
+      }
+    ]
+  },
+  {
+    "category": "Campus Life",
+    "conversations": [
+      {
+        "query": "What housing options are available for students?",
+        "response": "We offer various on-campus housing options including traditional residence halls, suite-style accommodations, and apartment-style housing. First-year students typically live in traditional halls or suites organized into living-learning communities. Upper-class students have more options including apartments. All housing includes utilities, internet, and access to laundry facilities."
+      },
+      {
+        "query": "How many student organizations are there?",
+        "response": "We have over 250 registered student organizations covering academic interests, cultural groups, performing arts, service organizations, sports clubs, and special interest groups. If you don't find an organization that matches your interests, you can create a new one with at least 5 interested students and a faculty advisor."
+      },
+      {
+        "query": "What dining options are available on campus?",
+        "response": "Our campus features three main dining halls offering all-you-care-to-eat options, plus 15+ retail locations including national brands like Starbucks and Subway. We accommodate various dietary needs including vegetarian, vegan, and allergen-free options. Meal plans are required for residence hall students and optional for others."
+      },
+      {
+        "query": "What athletic facilities are available to students?",
+        "response": "Our recreation center features a fitness area with cardio and weight equipment, an indoor track, basketball and volleyball courts, an aquatic center with lap pool and leisure pool, racquetball courts, and group fitness studios. Outdoor facilities include tennis courts, playing fields, and a challenge course. All enrolled students have access to these facilities."
+      },
+      {
+        "query": "Do you have Greek life?",
+        "response": "Yes, we have 20 fraternities and 15 sororities, representing approximately 25% of undergraduates. We have National Panhellenic Conference sororities, Interfraternity Council fraternities, historically African American Greek organizations, and professional fraternities. Recruitment for most organizations occurs at the beginning of fall and spring semesters."
+      },
+      {
+        "query": "Is there a health center on campus?",
+        "response": "Yes, our Student Health Center provides primary care, preventive services, immunizations, laboratory services, and health education. Most services are covered by the student health fee. The center is staffed by physicians, nurse practitioners, and registered nurses. We also have a Counseling Center providing mental health services to students."
+      },
+      {
+        "query": "How safe is the campus?",
+        "response": "Campus safety is a top priority. We maintain a 24/7 campus police department, emergency blue light phones throughout campus, shuttle services during evening hours, and a safety escort program. Our campus crime statistics are published annually and show consistently low rates of serious crime compared to other institutions of similar size."
+      },
+      {
+        "query": "What transportation options are available?",
+        "response": "We offer free campus shuttle services running on regular routes Monday through Friday, with limited weekend service. Students can also use the city bus system for free with their student ID. Bike sharing and car sharing programs are available. Freshmen can bring cars to campus but must purchase a parking permit."
+      },
+      {
+        "query": "What events happen on campus?",
+        "response": "Our campus hosts hundreds of events throughout the year including concerts, lectures, theatrical performances, movie screenings, cultural celebrations, and athletic events. Major annual events include Fall Festival, Homecoming Week, Spring Concert Series, and Cultural Diversity Week. Most events are free or discounted for students."
+      },
+      {
+        "query": "Are there opportunities for community service?",
+        "response": "Our Center for Community Engagement coordinates volunteer opportunities, service-learning courses, and alternative break programs. Students contribute over 50,000 volunteer hours annually to local, national, and international communities. Popular programs include tutoring in local schools, environmental restoration projects, and our annual campus-wide service day."
+      }
+    ]
+  },
+  {
+    "category": "Administrative",
+    "conversations": [
+      {
+        "query": "How do I get my student ID card?",
+        "response": "Student ID cards are issued at the Card Services Office located in the Student Center, Room 143. Bring a government-issued photo ID (driver's license or passport). New students can get their ID during orientation or any time the office is open. Replacement cards for lost or damaged IDs cost $25. Office hours are Monday-Friday, 8:30 AM to 4:30 PM."
+      },
+      {
+        "query": "How do I access my student email?",
+        "response": "Your student email can be accessed at mail.institution.edu using your student ID (s followed by your 8-digit number) and the password you created during account setup. You can also configure your email on mobile devices or desktop email clients using the instructions on our IT website. All official university communications are sent to this email."
+      },
+      {
+        "query": "When is graduation?",
+        "response": "Commencement ceremonies are held at the end of each semester. Spring commencement (our largest ceremony) is typically the second Saturday in May. Fall commencement is held in mid-December. Summer graduates can participate in either the preceding spring or following fall ceremony. Specific dates are announced about 6 months in advance."
+      },
+      {
+        "query": "How do I request an official transcript?",
+        "response": "Official transcripts can be requested through your student portal or the Registrar's website. The fee is $10 per transcript for electronic delivery and $15 for paper copies. Processing takes 2-3 business days for regular requests. Express processing (24 hours) is available for an additional $15. Transcripts will not be issued if you have financial holds on your account."
+      },
+      {
+        "query": "What is the academic calendar?",
+        "response": "Our academic year consists of fall and spring semesters (15 weeks each) and optional summer sessions. Fall semester typically runs late August to mid-December, spring semester runs mid-January to early May, and summer sessions run May to August. Important dates including registration periods, payment deadlines, and holidays are published on the Registrar's website."
+      },
+      {
+        "query": "How do I submit immunization records?",
+        "response": "Immunization records must be submitted to the Student Health Center before class registration. New students can upload records through the health portal or submit them by fax, mail, or in person. Required immunizations include MMR, Tdap, Varicella, Hepatitis B, and Meningococcal vaccine for residents. Medical or religious exemptions require specific documentation."
+      },
+      {
+        "query": "What is the process for withdrawing from a course?",
+        "response": "To withdraw from a course, submit a Course Withdrawal Form through your student portal or at the Registrar's Office before the published withdrawal deadline (typically the 10th week of the semester). Before the drop deadline (first two weeks), courses can be dropped with no record. After that, withdrawals receive a 'W' grade, which doesn't affect GPA but may impact financial aid and progress toward degree."
+      },
+      {
+        "query": "How do I update my contact information?",
+        "response": "You can update your contact information (address, phone number, emergency contacts) through your student portal under the 'Personal Information' section. It's important to keep this information current for emergency notifications and official communications. Your legal name can only be changed by submitting documentation to the Registrar's Office."
+      },
+      {
+        "query": "Where can I find the student handbook?",
+        "response": "The Student Handbook is available online at institution.edu/studenthandbook. It contains important policies including the code of conduct, academic integrity policy, housing regulations, and student rights and responsibilities. All students are responsible for knowing the content of the handbook, which is updated annually each August."
+      },
+      {
+        "query": "How do I apply for graduation?",
+        "response": "To apply for graduation, submit a Graduation Application through your student portal by the deadline (typically 3 months before the end of your final semester). There is a $75 graduation fee that covers diploma processing and the ceremony. You should also meet with your academic advisor to confirm you've met all degree requirements."
+      }
+    ]
+  },
+  {
+    "category": "Career Services",
+    "conversations": [
+      {
+        "query": "What career services are available to students?",
+        "response": "Our Career Center offers comprehensive services including career counseling, resume and cover letter reviews, mock interviews, career assessments, job and internship search assistance, and career fairs. We also provide access to online job boards, career development workshops, and networking events with employers and alumni."
+      },
+      {
+        "query": "When are the next career fairs?",
+        "response": "We host several career fairs throughout the academic year. Our largest all-majors fair is held each October and February. Industry-specific fairs for Engineering, Business, Healthcare, and Education are held at various times. Check the Career Center calendar on our website for specific dates and participating employers."
+      },
+      {
+        "query": "How do I access the job board?",
+        "response": "Our online job and internship board is available through your student portal under 'Career Resources' or directly at careers.institution.edu using your student login. The platform contains job and internship postings specifically targeting our students, as well as on-campus employment opportunities, employer profiles, and event information."
+      },
+      {
+        "query": "Do you offer resume review services?",
+        "response": "Yes, we offer resume and cover letter reviews through both scheduled appointments and drop-in hours. Career advisors can help you develop or refine your resume for specific industries or positions. Appointments can be scheduled online through the Career Center portal. Drop-in hours are available Monday-Friday from 1-3pm during the academic year."
+      },
+      {
+        "query": "What is the average starting salary for graduates?",
+        "response": "The average starting salary for our recent bachelor's degree graduates is approximately $52,000, though this varies significantly by field. Engineering and computer science graduates typically start between $65,000-$85,000, business graduates around $55,000, and humanities graduates around $42,000. Detailed salary information by major is available in our annual outcomes report."
+      },
+      {
+        "query": "How can I find internships in my field?",
+        "response": "You can find internships through our online job board, career fairs, and departmental connections. The Career Center also maintains relationships with employers who regularly hire our students. Schedule an appointment with a career advisor specializing in your field to develop a targeted internship search strategy and to learn about unlisted opportunities."
+      },
+      {
+        "query": "Do you have a mentorship program with alumni?",
+        "response": "Yes, our Alumni Mentorship Program connects current students with alumni working in their fields of interest. The program runs each academic year from October to April. Applications open in September, and matches are made based on career interests, major, and location. Both in-person and virtual mentoring arrangements are available."
+      },
+      {
+        "query": "How can international students find employment in the US?",
+        "response": "International students can work on campus without additional authorization and may qualify for Curricular Practical Training (CPT) for course-related employment or Optional Practical Training (OPT) after graduation. Our International Student Center collaborates with the Career Center to provide specialized workshops on visa regulations, job search strategies, and cultural aspects of the US workplace."
+      },
+      {
+        "query": "What graduate schools do your students typically attend?",
+        "response": "Our graduates are regularly admitted to prestigious graduate programs nationwide. Popular destinations include state flagship universities and private institutions like MIT, Stanford, Columbia, and University of Chicago. Approximately 30% of our graduates pursue advanced degrees within five years of graduation. The Career Center offers graduate school application assistance and preparation for entrance exams."
+      },
+      {
+        "query": "Do you have on-campus recruitment?",
+        "response": "Yes, over 300 employers conduct on-campus interviews each year for full-time positions and internships. Recruitment sessions typically occur in September-November for spring/summer opportunities and February-April for fall opportunities. To participate, you must have an approved resume in our system and meet any employer-specified qualifications."
+      }
+    ]
+  },
+  {
+    "category": "Technology Services",
+    "conversations": [
+      {
+        "query": "How do I connect to the campus Wi-Fi?",
+        "response": "To connect to campus Wi-Fi, select the 'Campus-Secure' network from your device's Wi-Fi settings and enter your student ID and password when prompted. For guest access, select the 'Campus-Guest' network and follow the registration instructions. Technical support is available from the IT Help Desk if you encounter connection issues."
+      },
+      {
+        "query": "Where can I print on campus?",
+        "response": "Printing stations are available in the library, student center, and computer labs across campus. You can print from any campus computer or send print jobs remotely from your personal device using our mobile printing service. Each student receives a $30 printing allowance per semester (equivalent to 300 black and white pages). Additional printing credit can be purchased through your student account."
+      },
+      {
+        "query": "Do students get free software?",
+        "response": "Yes, students have access to numerous free software packages including Microsoft Office 365, Adobe Creative Cloud, MATLAB, SPSS, AutoCAD, and various programming and statistical tools. These can be accessed through our software portal at software.institution.edu using your student login. Some specialized software is only available in specific computer labs or through virtual desktop."
+      },
+      {
+        "query": "How do I reset my password?",
+        "response": "You can reset your password at password.institution.edu. You'll need to verify your identity using the secondary email or phone number you provided during account setup. If you haven't set up recovery options, you'll need to visit the IT Help Desk in person with your student ID. Passwords expire every 180 days and must meet our complexity requirements."
+      },
+      {
+        "query": "Where are the computer labs located?",
+        "response": "General computer labs are located in the Library (1st and 3rd floors), Student Center (Room 250), and Technology Building (Rooms 110 and 220). Specialized labs for graphic design, engineering, and data science are located in their respective department buildings. Lab hours vary by location, with the library labs offering the most extensive hours, including 24-hour access during finals week."
+      },
+      {
+        "query": "Is there technical support available for students?",
+        "response": "Yes, the IT Help Desk provides technical support via phone (555-123-4567), email (helpdesk@institution.edu), or in person at the Technology Center. Support is available Monday-Friday from 8am-8pm and Saturday from 10am-4pm during the academic year, with reduced hours during breaks. Self-service resources are also available on our knowledge base at help.institution.edu."
+      },
+      {
+        "query": "Do you offer cloud storage for students?",
+        "response": "Yes, all students receive 1TB of cloud storage through OneDrive as part of their Office 365 account. This storage can be accessed through the web, desktop application, or mobile app. Files stored in OneDrive can be easily shared with classmates and professors for collaboration. Additional specialized storage may be available for specific courses or departments."
+      },
+      {
+        "query": "Can I check out technology equipment?",
+        "response": "Yes, the Technology Resource Center in the library offers equipment loans including laptops, tablets, digital cameras, audio recorders, projectors, and accessories. Equipment can be borrowed for periods ranging from 4 hours to 7 days depending on the item. Reservations can be made online, and late returns incur daily fees. Extended loans may be available for academic projects with faculty approval."
+      },
+      {
+        "query": "How do I access the virtual learning environment?",
+        "response": "Our learning management system (Canvas) can be accessed at canvas.institution.edu or through the mobile app. Log in with your student ID and password. Course materials, assignments, and communication tools are available through this platform. New users should complete the Canvas orientation course to become familiar with the system's features."
+      },
+      {
+        "query": "Is there virtual desktop access available?",
+        "response": "Yes, our virtual desktop infrastructure (VDI) allows you to access specialized software and campus resources from any device with internet access. Connect through vdi.institution.edu using your student credentials. This is particularly useful for accessing software that requires high computing power or is only licensed for on-campus use."
+      }
+    ]
+  },
+  {
+    "category": "Library Services",
+    "conversations": [
+      {
+        "query": "What are the library hours?",
+        "response": "The main library is open Monday-Thursday from 7am-12am, Friday from 7am-9pm, Saturday from 9am-9pm, and Sunday from 10am-12am during regular semesters. Hours are extended during finals week to 24 hours. Special collections and archives have more limited hours, typically 9am-5pm weekdays. All hours, including holidays and breaks, are posted on the library website."
+      },
+      {
+        "query": "How long can I borrow books?",
+        "response": "Undergraduate students can borrow general collection books for 28 days with up to two renewals if no one else has requested the item. Graduate students have a 90-day loan period. Course reserves typically circulate for 2-4 hours for in-library use only. DVDs and media equipment have a 7-day loan period. Overdue fines vary by material type."
+      },
+      {
+        "query": "Do you have study rooms available?",
+        "response": "Yes, the library has 35 group study rooms available for reservation. Rooms accommodate 4-10 people and feature whiteboards and display screens for laptop connection. Reservations can be made up to two weeks in advance through the library website and are limited to 3 hours per group per day. Unreserved rooms are available on a first-come, first-served basis."
+      },
+      {
+        "query": "How do I access academic journals off-campus?",
+        "response": "You can access all electronic resources, including journals, databases, and e-books, from off-campus by logging in with your student credentials when prompted. For the most seamless experience, start from the library website or use our proxy bookmarklet. Some specialized databases may require VPN access, which can be set up through campus IT services."
+      },
+      {
+        "query": "Do you offer research assistance?",
+        "response": "Yes, research assistance is available through multiple channels. Librarians provide in-person help at the research desk during regular hours. You can also schedule one-on-one consultations with subject specialists, chat with librarians online 24/7, email questions, or use our research guides. Research workshops on various topics are offered throughout the semester."
+      },
+      {
+        "query": "Can I request books from other libraries?",
+        "response": "Yes, interlibrary loan services allow you to request books, articles, and other materials not available in our collection. Books typically arrive within 5-10 business days, while electronic articles are often delivered within 24-48 hours. This service is free for students, though some rush requests may incur a fee. Requests can be submitted through the ILLiad system on our website."
+      },
+      {
+        "query": "Where can I find textbooks for my courses?",
+        "response": "The library maintains a course reserves collection where professors place textbooks and required readings for short-term borrowing (typically 2-4 hours). Not all courses have reserve materials, as this is at faculty discretion. Additionally, our library has begun building an Open Educational Resources collection of free textbooks for high-enrollment courses. These can be accessed through our catalog or course reserves page."
+      },
+      {
+        "query": "Do you have a writing center in the library?",
+        "response": "Yes, the Writing Center maintains a satellite location on the second floor of the main library. Tutors are available Sunday-Thursday evenings from 6-9pm for drop-in assistance. For more extensive help, you can schedule appointments at the main Writing Center location. The library location specializes in research paper organization and citation assistance."
+      },
+      {
+        "query": "What citation styles do you support?",
+        "response": "Our library provides guides and tools for all major citation styles including APA, MLA, Chicago, IEEE, and discipline-specific formats. Citation management software like Zotero, Mendeley, and EndNote are available on library computers and can be downloaded to personal devices. Librarians offer workshops on citation management throughout the semester, and individual assistance is available at the research desk."
+      },
+      {
+        "query": "Do you have special collections or archives?",
+        "response": "Yes, our Special Collections and University Archives are located on the fourth floor of the main library. These collections include rare books, manuscripts, university historical documents, and regional history materials. Materials must be used on-site in the reading room and may require advance notice to access. Digital collections of selected materials are available through our website."
+      }
+    ]
+  },
+  {
+    "category": "International Student Services",
+    "conversations": [
+      {
+        "query": "What services do you provide for international students?",
+        "response": "Our International Student Services office provides comprehensive support including immigration advising, cultural adjustment assistance, orientation programs, social events, tax filing guidance, employment workshops, and advocacy. We serve as the liaison between international students and government agencies regarding visa and immigration matters."
+      },
+      {
+        "query": "How do I maintain my F-1 student status?",
+        "response": "To maintain F-1 status, you must: maintain full-time enrollment (12+ credits for undergraduates, 9+ for graduates) except during authorized periods, make satisfactory academic progress, only work with proper authorization, keep your passport and I-20 valid, update your address within 10 days of moving, and not stay in the US beyond your authorized period."
+      },
+      {
+        "query": "What is OPT and how do I apply for it?",
+        "response": "Optional Practical Training (OPT) allows F-1 students to work in their field of study for up to 12 months after graduation (or up to 36 months for STEM degrees). To apply, attend an OPT workshop, submit the required forms to our office at least 3 months before your desired start date, and we'll help you prepare your application for USCIS. Processing typically takes 3-5 months."
+      },
+      {
+        "query": "When is international student orientation?",
+        "response": "International Student Orientation is held the week before classes begin each semester. Fall orientation is typically mid " 
+      }
+    ]
+  }]

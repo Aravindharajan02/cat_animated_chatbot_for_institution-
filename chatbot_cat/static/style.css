@@ -1,0 +1,70 @@
+/* Colorful Background */
+body {
+    background: linear-gradient(120deg, #ff9a9e, #fad0c4);
+    font-family: Arial, sans-serif;
+}
+
+/* Moving Cat Button */
+#cat {
+    position: absolute;
+    width: 100px;
+    cursor: pointer;
+    animation: moveCat 10s infinite alternate;
+}
+
+@keyframes moveCat {
+    0% { left: 5%; top: 10%; }
+    50% { left: 50%; top: 30%; }
+    100% { left: 80%; top: 50%; }
+}
+
+/* Chatbox Styling */
+#chatbox {
+    position: fixed;
+    bottom: 50px;
+    right: 20px;
+    width: 320px;
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+    display: none;
+    animation: fadeIn 0.5s;
+}
+
+/* Chat Header */
+#chat-header {
+    background: #ff758c;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 15px 15px 0 0;
+}
+
+/* Chat Bubbles */
+#chat-content {
+    max-height: 300px;
+    overflow-y: auto;
+    padding: 10px;
+}
+
+.user-message {
+    background: #ffd166;
+    padding: 8px;
+    border-radius: 10px;
+    margin: 5px 0;
+    text-align: right;
+}
+
+.bot-message {
+    background: #06d6a0;
+    padding: 8px;
+    border-radius: 10px;
+    margin: 5px 0;
+    text-align: left;
+}
+
+/* Typing Effect */
+.typing {
+    font-style: italic;
+    color: gray;
+}
